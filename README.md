@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemang Sheoran
-- 👀 I’m interested in Web Dev and coding Question
-- 🌱 I’m currently pusuing B-Tech  in MSIT Delhi
+- 👀 I’m interested in Data Engineering and coding Question
+- 🌱 Currently working at Accenture
 - 📫 Email- hemangsheoran677@gmail.com
 
 <!---
